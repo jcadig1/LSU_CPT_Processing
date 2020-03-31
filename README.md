@@ -11,5 +11,6 @@ The script processes the CPT data in several steps:
 # To Run:
 Copy all raw data files into both the Cone/ and Ball/ directories. Open the script in Matlab, make any necessary modifications such as the name of the output workbook, run the file.
 
-# To Cite:
+# To Cite: [![DOI](https://zenodo.org/badge/211117019.svg)](https://zenodo.org/badge/latestdoi/211117019)
+
 
