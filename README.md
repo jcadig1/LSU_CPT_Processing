@@ -1,4 +1,4 @@
-# LSUCPT_Processing
+# LSU_CPT_Processing
 Data processing script to process raw CPT data files. Script is specifically formatted for the output files produced by Vertek (http://www.vertekcpt.com/) cone penetrometers, however could be modified to only run following the section where voltages are converted into engineering units for other data file formats.
 # Processing 
 The script processes the CPT data in several steps:
